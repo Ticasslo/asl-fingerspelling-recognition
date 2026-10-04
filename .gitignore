@@ -1,0 +1,21 @@
+# Trained models (download from Hugging Face or Google Drive, see README)
+model*.p
+!modeltest.p
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Secrets
+.env
+
+# Photos from collect_imgs.py and extracted datasets
+data/
+data*.pickle
+!datatest.pickle
+
+# OS
+.DS_Store
+Thumbs.db

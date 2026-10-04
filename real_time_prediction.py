@@ -17,7 +17,7 @@ import pickle
 import mediapipe as mp
 import numpy as np
 import time
-from geminiAI import IntoVoice
+from geminiAI2 import IntoVoice
 
 # Load model: Taking out the file pickle from the model data [the data is in a form of label of prediction for the Random Forest Model]
 # CHOOSE YOUR MODEL
