@@ -137,7 +137,7 @@ To train your own model: put images in folders by label, run `data_extraction.py
 
 ## Team
 
-- Huỳnh Ngọc Thắng: found and processed the data, trained and tuned the models, wrote and put together the report, presented the project
+- Huỳnh Ngọc Thắng (team lead): found and processed the data, trained and tuned the models, wrote and put together the report, presented the project
 - Nguyễn Lâm Huy: letter recognition screen and voice output
 - Nguyễn Thành Tài: the sign game
 - Hồ Minh Tiến Thành: the user interface, main menu and the Learn page
